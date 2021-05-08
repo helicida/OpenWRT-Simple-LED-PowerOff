@@ -1,7 +1,7 @@
 # OpenWRT-Simple-LED-PowerOff
 Simple script to switch off the power and status LEDs in a OpenWRT router using crons.
 
-1 - Copy the .sh file in the /usr/local folder. Remember to use LF encoding to avoid any problems with UNIX reading the file. You can connect to the router using any client as WinSCP:
+1 - Copy the [.sh](https://github.com/helicida/OpenWRT-Simple-LED-PowerOff/blob/main/apagarLEDs.sh) file in the /usr/local folder. Remember to use LF encoding to avoid any problems with UNIX reading the file. You can connect to the router using any client as WinSCP:
 
 ![imagen](https://user-images.githubusercontent.com/13574613/117520532-ed90fa00-afa8-11eb-8e22-36f82f5e9338.png)
 
