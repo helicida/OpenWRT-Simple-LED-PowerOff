@@ -9,7 +9,7 @@ Simple script to switch off the power and status LEDs in a OpenWRT router using 
 
     chmod +x usr/local/apagarLEDs.sh
 
-3 - You'll need to enable the Scheduled Task (and to activate them on every reboot)
+3 - You'll need to enable the Scheduled Task (and to activate them on every reboot), so execute the following commands:
 
     /etc/init.d/cron start
     /etc/init.d/cron enable
