@@ -24,7 +24,7 @@ Simple script to switch off the power and status LEDs in a OpenWRT router using 
 00 21 * * * /usr/local/apagarLEDs.sh
 
 
-
-Remember the router has his own time and the crons will work based on it, you can check it out on "Status"
+# Rembember the router has his own system time...
+The crons will work based on it, you can check it out on "Status"
 
 ![imagen](https://user-images.githubusercontent.com/13574613/117520633-61330700-afa9-11eb-8c5d-f240b291301b.png)
