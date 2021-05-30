@@ -7,7 +7,7 @@ Script sencillo para apagar los LEDs de encendido y de estado en un router OpenW
 
 2 - Concede los permisos a OpenWRT para poder ejecutar el script:
 
-    chmod +x usr/local/apagarLEDs.sh
+    chmod +x /usr/local/apagarLEDs.sh
 
 3 - Tendrás que activar las Scheduled Task (y configurar que se arranquen automáticamente tras reiniciar el router). Ejecuta los siguientes comandos:
     
